@@ -21,10 +21,13 @@
   
   border-bottom: 2px solid white;
 }
-
+.navbar-light .navbar-nav .nav-link{ color: white; }
+.navbar-light .navbar-nav .nav-link:hover { color: white; }
 #navcol-1 {
+	
   font-size:20px;
   font-family:'Alegreya Sans', sans-serif;
 
 }
 
+.navbar-toggler-icon{  background-color: white; }
